@@ -10,9 +10,9 @@ const notes = [
       "How to keep a programmer in the shower forever. Show him the shampoo bottle instructions: Lather. Rinse. Repeat.",
   },
   {
-    title: "Hardware vs. Software",
+    title: "Array vs Linked list",
     content:
-      "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software.",
+      "An array is a collection of data elements of the same type but A linked list is a collection of entities known as nodes. The node is divided into two sections: data and address.Array keeps the data elements in a single memory but linkedlist stores elements at random, or anywhere in the memory..",
   },
 ];
 
